@@ -15,7 +15,7 @@ Bitski does not require all fields of a transaction to be submitted in order to 
 Name | Default behavior
 ---- | ----------------
 nonce | Bitski will calculate the next nonce for you.
-gasPrice | Bitski will calculate a gas price for you based on a the current averages.
+gasPrice | Bitski will calculate a gas price for you based on the current averages.
 
 ## Gas
 
