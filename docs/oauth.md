@@ -32,4 +32,4 @@ Name | Description
 ---- | ------------
 `openid` | Access to the user's unique identifier.
 `email` | Gives you access to the user's email address. Contact us to add this to your app.
-`offline` | Allows your token to be renewed with a refresh token. This is required to have a session that lasts longer than 10 minutes. Contact us to add this to your app.
+`offline` | Allows your token to be renewed with a refresh token. This is required to renew your access tokens automatically.

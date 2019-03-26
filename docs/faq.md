@@ -46,4 +46,4 @@ Not at the moment, but that is on our roadmap.
 
 Currently for ETH, users will need to use another service to purchase ETH with fiat currency, and transfer that to their Bitski wallet. We will eventually have a more integrated process.
 
-However, if you're working with digital assets, we suggest using our app wallet API to send assets to users directly. This prevents the need for the user to purchase ETH, while allowing them to have decentralized ownership.
+However, if you're working with digital assets, we suggest using a backend with App Wallet to send assets to users directly. This prevents the need for the user to purchase ETH, while allowing them to have decentralized ownership.
