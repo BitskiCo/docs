@@ -1,5 +1,5 @@
 site_name: Bitski Docs
-pages:
+nav:
   - Home: index.md
   - Overview: overview.md
   - Getting Started: getting-started.md
@@ -19,7 +19,7 @@ extra:
       url: https://bitskico.github.io/bitski-ios/
     - name: Truffle
       url: https://github.com/BitskiCo/bitski-truffle-provider
-  third-party:
+  thirdparty:
     - name: 0xcert
       url: https://docs.0xcert.org/api/ethereum.html
 theme:
@@ -27,5 +27,5 @@ theme:
   custom_dir: bitski_theme
 plugins:
   - search
-copyright: © 2018 Out There Labs, Inc.
+copyright: © 2019 Out There Labs, Inc.
 extra_javascript:

@@ -48,14 +48,6 @@
   {%- endblock %}
 
   {%- block libs %}
-  {% if page %}
-  <script>
-    // Current page data
-    var mkdocs_page_name = {{ page.title|tojson|safe }};
-    var mkdocs_page_input_path = {{ page.input_path|tojson|safe }};
-    var mkdocs_page_url = {{ page.abs_url|tojson|safe }};
-  </script>
-  {% endif %}
   <script src="{{ base_url }}/js/jquery-2.1.1.min.js" defer></script>
   <script src="{{ base_url }}/js/modernizr-2.8.3.min.js" defer></script>
   <script type="text/javascript" src="{{ base_url }}/js/highlight.pack.js" defer></script>
@@ -72,7 +64,7 @@
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
       <div class="logo">
       {%- block site_name %}
-        <h3><a href="{{ nav.homepage.url }}">Bitski <span class="highlighted">Docs</span></a></h3>
+        <h3><a href="{{ nav.homepage.url|url }}">Bitski <span class="highlighted">Docs</span></a></h3>
       {%- endblock %}
       </div>
 
@@ -95,7 +87,7 @@
           </ul>
           <h4>Third-Party Integrations</h4>
           <ul class="platforms">
-            {% for sdk in config.extra.third-party %}
+            {% for sdk in config.extra.thirdparty %}
             <li class="toctree-l1"><a href="{{sdk.url}}">{{sdk.name}}</a></li>
             {% endfor %}
           </ul>
