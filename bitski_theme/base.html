@@ -93,6 +93,12 @@
             <li class="toctree-l1"><a href="{{sdk.url}}">{{sdk.name}}</a></li>
             {% endfor %}
           </ul>
+          <h4>Third-Party Integrations</h4>
+          <ul class="platforms">
+            {% for sdk in config.extra.third-party %}
+            <li class="toctree-l1"><a href="{{sdk.url}}">{{sdk.name}}</a></li>
+            {% endfor %}
+          </ul>
         {%- endblock %}
       </div>
       &nbsp;
