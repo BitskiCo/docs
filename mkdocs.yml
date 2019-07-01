@@ -7,6 +7,7 @@ nav:
   - Client Settings: client-settings.md
   - Sending Transactions: transactions.md
   - App Wallets: app-wallet.md
+  - Backend Verification: backend_verification.md
   - Examples: examples.md
   - FAQ: faq.md
 extra:
