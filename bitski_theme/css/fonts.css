@@ -1,167 +1,58 @@
 @font-face {
-  font-family: 'PressuraMono';
+  font-family: "PressuraMono";
   font-weight: 400;
   font-style: normal;
-  src: url('https://cdn.bitskistatic.com/fonts/mono-regular.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/mono-regular.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/mono-regular.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/mono-regular.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/mono-regular.ttf') format('truetype');
+  src: url("https://cdn.bitskistatic.com/fonts/mono-regular.eot");
+  src: url("https://cdn.bitskistatic.com/fonts/mono-regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.bitskistatic.com/fonts/mono-regular.woff2") format("woff2"),
+    url("https://cdn.bitskistatic.com/fonts/mono-regular.woff") format("woff"),
+    url("https://cdn.bitskistatic.com/fonts/mono-regular.ttf")
+      format("truetype");
 }
 
 @font-face {
-  font-family: 'PressuraMono';
+  font-family: "PressuraMono";
   font-weight: 700;
   font-style: normal;
-  src: url('https://cdn.bitskistatic.com/fonts/mono-bold.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/mono-bold.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/mono-bold.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/mono-bold.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/mono-bold.ttf') format('truetype');
+  src: url("https://cdn.bitskistatic.com/fonts/mono-bold.eot");
+  src: url("https://cdn.bitskistatic.com/fonts/mono-bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.bitskistatic.com/fonts/mono-bold.woff2") format("woff2"),
+    url("https://cdn.bitskistatic.com/fonts/mono-bold.woff") format("woff"),
+    url("https://cdn.bitskistatic.com/fonts/mono-bold.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: 'Pressura';
+  font-family: "Pressura";
   font-weight: 400;
   font-style: normal;
-  src: url('https://cdn.bitskistatic.com/fonts/pr-regular.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/pr-regular.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/pr-regular.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/pr-regular.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/pr-regular.ttf') format('truetype');
+  src: url("https://cdn.bitskistatic.com/fonts/pr-regular.eot");
+  src: url("https://cdn.bitskistatic.com/fonts/pr-regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.bitskistatic.com/fonts/pr-regular.woff2") format("woff2"),
+    url("https://cdn.bitskistatic.com/fonts/pr-regular.woff") format("woff"),
+    url("https://cdn.bitskistatic.com/fonts/pr-regular.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: 'Pressura';
+  font-family: "Pressura";
   font-weight: 700;
   font-style: normal;
-  src: url('https://cdn.bitskistatic.com/fonts/pr-bold.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/pr-bold.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/pr-bold.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/pr-bold.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/pr-bold.ttf') format('truetype');
+  src: url("https://cdn.bitskistatic.com/fonts/pr-bold.eot");
+  src: url("https://cdn.bitskistatic.com/fonts/pr-bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.bitskistatic.com/fonts/pr-bold.woff2") format("woff2"),
+    url("https://cdn.bitskistatic.com/fonts/pr-bold.woff") format("woff"),
+    url("https://cdn.bitskistatic.com/fonts/pr-bold.ttf") format("truetype");
 }
 
-/**
- * @license
- * MyFonts Webfont Build ID 3540618, 2018-03-12T21:01:08-0400
- *
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are
- * explicitly restricted from using the Licensed fonts(s).
- *
- * You may obtain a valid license at the URLs below.
- *
- * Webfont: Sailec-Bold by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/bold/
- *
- * Webfont: Sailec-BlackItalic by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/black-italic/
- *
- * Webfont: Sailec-BoldItalic by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/bold-italic/
- *
- * Webfont: Sailec-Black by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/black/
- *
- * Webfont: Sailec-Light by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/light/
- *
- * Webfont: Sailec-LightItalic by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/light-italic/
- *
- * Webfont: Sailec-Medium by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/medium/
- *
- * Webfont: Sailec-MediumItalic by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/medium-italic/
- *
- * Webfont: Sailec-Regular by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/regular/
- *
- * Webfont: Sailec-RegularItalic by Type Dynamic
- * URL: https://www.myfonts.comhttps://cdn.bitskistatic.com/fonts/typedynamic/sailec/regular-italic/
- *
- *
- * License: https://www.myfonts.com/viewlicense?type=web&buildid=3540618
- * Licensed pageviews: 20,000
- * fonts copyright: Copyright &#x00A9; 2014 by Type Dynamic. All rights reserved.
- *
- * © 2018 MyFonts Inc
-*/
-
-@font-face {
-  font-family: 'Sailec';
-  font-weight: 400;
-  font-style: normal;
-  src: url('https://cdn.bitskistatic.com/fonts/360692_8_0.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/360692_8_0.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/360692_8_0.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/360692_8_0.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/360692_8_0.ttf') format('truetype');
+@import url("https://rsms.me/inter/inter.css");
+html {
+  font-family: "Inter", sans-serif;
 }
-
-@font-face {
-  font-family: 'Sailec';
-  font-weight: 400;
-  font-style: italic;
-  src: url('https://cdn.bitskistatic.com/fonts/360692_9_0.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/360692_9_0.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/360692_9_0.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/360692_9_0.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/360692_9_0.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Sailec';
-  font-weight: 500;
-  font-style: normal;
-  src: url('https://cdn.bitskistatic.com/fonts/360692_6_0.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/360692_6_0.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/360692_6_0.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/360692_6_0.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/360692_6_0.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Sailec';
-  font-weight: 500;
-  font-style: italic;
-  src: url('https://cdn.bitskistatic.com/fonts/360692_7_0.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/360692_7_0.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/360692_7_0.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/360692_7_0.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/360692_7_0.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Sailec';
-  font-weight: 700;
-  font-style: normal;
-  src: url('https://cdn.bitskistatic.com/fonts/360692_0_0.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/360692_0_0.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/360692_0_0.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/360692_0_0.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/360692_0_0.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Sailec';
-  font-weight: 700;
-  font-style: italic;
-  src: url('https://cdn.bitskistatic.com/fonts/360692_2_0.eot');
-  src:
-    url('https://cdn.bitskistatic.com/fonts/360692_2_0.eot?#iefix') format('embedded-opentype'),
-    url('https://cdn.bitskistatic.com/fonts/360692_2_0.woff2') format('woff2'),
-    url('https://cdn.bitskistatic.com/fonts/360692_2_0.woff') format('woff'),
-    url('https://cdn.bitskistatic.com/fonts/360692_2_0.ttf') format('truetype');
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: "Inter var", sans-serif;
+  }
 }
