@@ -22,7 +22,7 @@ extra:
       url: https://github.com/BitskiCo/bitski-truffle-provider
   thirdparty:
     - name: 0xcert
-      url: https://docs.0xcert.org/framework/v2/api/ethereum-connectors.html
+      url: https://docs.0xcert.org/framework/v2/api/ethereum-connectors.html#bitski-back-end-provider
 theme:
   name: null
   custom_dir: bitski_theme
