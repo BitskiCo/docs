@@ -1,16 +1,12 @@
-# User Wallet Verification
-
-## Obtaining an Access Token
-
 Before you can verify a user's wallet you will need to obtain an access token, either via the Bitski JS SDK or via a custom redirect flow.
 
-### Using the [Bitski JS SDK](https://bitskico.github.io/bitski-js/)
+### Using the [Bitski JS SDK](https://github.com/BitskiCo/bitski-js/)
 
 Once your user has signed in with Bitski, simply call `bitski.getCurrentAccessToken()` to get the access token of the current user. You can then send that access token to your backend.
 
 ### Using OAuth2/OpenID Connect
 
-If your app is not using the [Bitski JS SDK](https://bitskico.github.io/bitski-js/) and you want to authenticate a user you will need to complete the following:
+If your app is not using the [Bitski JS SDK](https://github.com/BitskiCo/bitski-js/) and you want to authenticate a user you will need to complete the following:
 
 1. Configure your backend for [OAuth](oauth.md) integration.
 2. Get an access token for the current user.
@@ -77,4 +73,4 @@ It will also contain the user's email address if you requested it and the user a
 
 ## Offline Access
 
-You can also request offline access which will let you make calls on behalf of the user even if they close their browser tab. Consult the documentation on your oauth framework for instructions to obtain a refresh token and how to exchange it for an access token. If you are using the [Bitski JS SDK](https://bitskico.github.io/bitski-js/) you can get a refresh token with `bitski.getCurrentRefreshToken()` but you will still need to use your provider's method of exchanging it for an access token.
+You can also request offline access which will let you make calls on behalf of the user even if they close their browser tab. Consult the documentation on your oauth framework for instructions to obtain a refresh token and how to exchange it for an access token. If you are using the [Bitski JS SDK](https://github.com/BitskiCo/bitski-js/) you can get a refresh token with `bitski.getCurrentRefreshToken()` but you will still need to use your provider's method of exchanging it for an access token.

@@ -122,4 +122,3 @@ Name | URL
 ethereum | https://api.bitski.com/v1/web3/mainnet
 kovan | https://api.bitski.com/v1/web3/kovan
 rinkeby | https://api.bitski.com/v1/web3/rinkeby
-springrole | https://api.bitski.com/v1/web3/springrole

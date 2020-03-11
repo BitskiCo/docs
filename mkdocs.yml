@@ -13,11 +13,11 @@ nav:
 extra:
   sdks:
     - name: JavaScript
-      url: https://bitskico.github.io/bitski-js/
+      url: https://github.com/BitskiCo/bitski-js/
     - name: Node.js
       url: https://github.com/BitskiCo/bitski-node/
     - name: iOS
-      url: https://bitskico.github.io/bitski-ios/
+      url: https://github.com/BitskiCo/bitski-ios/
     - name: Truffle
       url: https://github.com/BitskiCo/bitski-truffle-provider
   thirdparty:

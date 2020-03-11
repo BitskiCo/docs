@@ -6,8 +6,8 @@ Bitski lets you build *user-friendly* and *cross-platform* Ethereum apps. Using 
 - Connect to the Ethereum network through our hosted nodes
 - Request access to a user's address
 - Submit transactions for approval on behalf of a user
-- Create and manage a wallet for your app
-- Deploy contracts through your app wallet
+- Create and manage a wallet for your backend app
+- Deploy contracts through your app's wallet
 
 ##### As a user, you can:
 - Use Ethereum apps without installing any software
