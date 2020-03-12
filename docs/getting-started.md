@@ -1,7 +1,3 @@
-## Signing up
-
-The first step is to make sure that you have a Bitski account. If you haven't done so already, <a href="https://bitski.com/account" target="_blank">sign up for an account</a>. Your Bitski account is both your personal wallet, and your developer account.
-
 ## Creating an app
 
 All apps that use the Bitski need to be registered in our Developer Portal. We use this to keep track of permissions a user has granted you.

@@ -13,13 +13,19 @@
   {% endif %}
   {%- endblock %}
 
-  <hr/>
-
   <div role="contentinfo" class="copyright">
     <!-- Copyright etc -->
     {% if config.copyright %}
-      <p>{{ config.copyright }}</p>
+      {{ config.copyright }}
     {% endif %}
+
+    <div class="footer-links">
+      <a href="https://www.bitski.com/terms">Terms</a> 
+      <a href="https://www.bitski.com/privacy">Privacy</a> 
+      <a href="https://docs.bitski.com">Documentation</a> 
+      <a href="https://twitter.com/bitski">Twitter</a> 
+      <a href="https://discordapp.com/invite/gqHExpd">Discord</a> 
+    </div>
   </div>
 
 </footer>
