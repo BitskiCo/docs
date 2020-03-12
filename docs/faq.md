@@ -2,13 +2,13 @@ Here are some answers to the questions we get asked most often.
 
 ### What networks do you support?
 
-Bitski currently supports mainnet (beta), SpringRole network, and the Kovan and Rinkeby test networks. To request support for your Ethereum compatible network, please <a href="mailto:support@bitski.com">contact us</a>.
+Bitski currently supports mainnet and the Kovan and Rinkeby test networks. To request support for your Ethereum compatible network, please <a href="mailto:support@bitski.com">contact us</a>.
 
 ---
 
 ### How much does Bitski charge?
 
-Bitski is currently free of charge for users and developers.
+Bitski is currently free of charge for users, developers can see our [pricing page](https://www.bitski.com/pricing/) for more information.
 
 ---
 
@@ -20,7 +20,7 @@ Secure key storage is very challenging, and a siloed approach will be inconvenie
 
 ### How should I integrate Bitski in my app?
 
-A great place to start is to put our sign in button wherever you're currently asking people to install Metamask.
+A great place to start is to put our [sign in button](https://github.com/bitskico/bitski-js#using-the-bitski-connect-button) wherever you're currently asking people to install Metamask.
 
 ---
 
@@ -44,6 +44,6 @@ Not at the moment, but that is on our roadmap.
 
 ### How will users fund their wallet?
 
-Currently for ETH, users will need to use another service to purchase ETH with fiat currency, and transfer that to their Bitski wallet. We will eventually have a more integrated process.
+Currently for ETH, users can sign into our [web wallet](https://wallet.bitski.com) and click **Get ETH** to purchase via credit card.
 
 However, if you're working with digital assets, we suggest using a backend with App Wallet to send assets to users directly. This prevents the need for the user to purchase ETH, while allowing them to have decentralized ownership.
