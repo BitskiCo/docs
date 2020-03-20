@@ -6,7 +6,11 @@ nav:
   - Authentication: oauth.md
   - Client Settings: client-settings.md
   - Sending Transactions: transactions.md
-  - App Wallets: app-wallet.md
+  - Programatic Wallets: programatic-wallets.md
+  - Programatic Wallets:
+    - App Wallet: app-wallet.md
+    - Whitelabel Wallet: whitelabel-wallet.md
+    - JSON RPC: programatic-wallets-json-rpc.md
   - Backend Verification: backend_verification.md
   - Examples: examples.md
   - FAQ: faq.md
