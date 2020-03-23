@@ -8,7 +8,7 @@ nav:
   - Sending Transactions: transactions.md
   - Programatic Wallets: programatic-wallets.md
   - Programatic Wallets:
-    - App Wallet: app-wallet.md
+    - Enterprise Wallet: app-wallet.md
     - Whitelabel Wallet: whitelabel-wallet.md
     - JSON RPC: programatic-wallets-json-rpc.md
   - Backend Verification: backend_verification.md

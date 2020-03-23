@@ -4,6 +4,8 @@ Bitski offers two kinds of programatic wallets:
 
 ## [Enterprise Wallets](app-wallet.md)
 
+_Note: enterprise wallets were formerly known as app wallets_
+
 Enterprise wallets are a great place to execute transations on behalf of your organization. For instance, you could:
 
 - Mint tokens and send them to people.

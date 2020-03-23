@@ -1,3 +1,5 @@
+_Note: enterprise wallet was formerly known as app wallet_
+
 ## Creating an Enterprise Wallet
 
 To create an enterprise wallet, first you will need an app. Start by visiting our [Developer Portal](https://developer.bitski.com), then click *New App* and enter your details.
