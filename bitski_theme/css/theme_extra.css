@@ -33,6 +33,9 @@
 .wy-menu-vertical ul {
   margin-bottom: 2em;
 }
+ul.toctree-l2 {
+  margin-bottom: 0;
+}
 
 /*
  * Fix link colors when the link text is inline code.
