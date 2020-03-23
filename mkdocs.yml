@@ -11,6 +11,7 @@ nav:
     - Enterprise Wallet: app-wallet.md
     - Whitelabel Wallet: whitelabel-wallet.md
     - JSON RPC: programatic-wallets-json-rpc.md
+  - Node Infrastructure: node-infrastructure.md    
   - Backend Verification: backend_verification.md
   - Examples: examples.md
   - FAQ: faq.md
