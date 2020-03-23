@@ -1,6 +1,6 @@
 In addition to managing wallets for users of your app, Bitski can also manage wallets for your backend apps and services. This is a very powerful tool, as it allows you to perform programmatic transactions on the server instead of the client, and in some cases remove the need for your users to pay gas. 
 
-Bitski offers two kinds of programtic wallets:
+Bitski offers two kinds of programatic wallets:
 
 ## [Enterprise Wallets](app-wallet.md)
 
