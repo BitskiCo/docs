@@ -10,7 +10,7 @@ nav:
   - Programatic Wallets:
     - Enterprise Wallet: app-wallet.md
     - Whitelabel Wallet: whitelabel-wallet.md
-    - JSON RPC: programatic-wallets-json-rpc.
+    - JSON RPC: programatic-wallets-json-rpc.md
   - Operators: operators.md
   - Operators:
     - Transaction Operator: transaction-operator.md
