@@ -16,4 +16,11 @@ Additionally, you can use Enterprise Wallets in Truffle for deploying your smart
 
 ## [Whitelabel Wallets](whitelabel-wallet.md)
 
-Whitelabel wallets are a great solution when you want complete control over a users blockchain experience and your users don't need to interact with any other applications. For instance, if you want to allow users to deposit DAI and then lend that DAI out to other people.
+Whitelabel wallets are a great solution when you want complete control over a users blockchain experience and your users don't need to interact with any other applications. For instance, you could:
+
+- Create a savings account for users where they can deposit DAI and earn interest.
+- Create a unique address for each user in your game where their assets can be saved.
+
+Authentication for whitelabel wallets is handled by your backend and users will not see any Bitski UI.
+
+_Note: each whitelabel wallet is own ethereum account so it will need gas to execute transactions. Because of this we suggest combining whitelabel wallets with meta transactions so that you can pay fees from your enterprise wallet. This would also make it easy to transfer assets out if a user wants to sign up for their own wallet._
