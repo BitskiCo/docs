@@ -59,3 +59,59 @@ Content-Type: application/json
 ```
 
 You are now ready to send [JSON RPC](programatic-wallets-json-rpc.md) requests.
+
+### Integrating with the Bitski SDKs
+
+You can also use our SDKs with the wallet. Here is an example application using bitski-node that will generate 3 wallets.
+
+```javascript
+// Need to set these before we get started
+// export CLIENT_ID=<YOUR CLIENT ID>
+// export CREDENTIAL_ID=<YOUR CREDENTIAL ID>
+// export CREDENTIAL_SECRET=<YOUR CREDENTIAL SECRET>
+// Also need to install a few packages
+// npm install bitski-node
+// npm install node-fetch
+// This will spit out something like this which is a valid CSV
+//
+// address
+// 0x0390dece47f0e43ada3f86fb90decc7606de6a11
+// 0x0bd31b20dfa4790d34f60edd5a0033505578bfaa
+// 0xe666cc3d4f804e0d0302406d629fd24c2709a7ae
+
+const Bitski = require("bitski-node");
+const fetch = require('node-fetch');
+const NUMBER_OF_ACCOUNTS_TO_GENERATE = 3;
+
+getAccounts(NUMBER_OF_ACCOUNTS_TO_GENERATE).then((accounts) => {
+  console.log('address');
+  accounts.forEach((account) => {
+    console.log(account.ethereumAddress);
+  })
+});
+
+async function getAccounts(count) {
+  const options = {
+    credentials: {
+      id: process.env.CREDENTIAL_ID,
+      secret: process.env.CREDENTIAL_SECRET
+    },
+    disableBlockTracking: true,
+  };  
+  const bitskiProvider = Bitski.getProvider(process.env.CLIENT_ID, options);
+  const accessToken = await bitskiProvider.tokenProvider.getAccessToken();
+  var accounts = [];
+  for (let index = 0; index < count; index++) {
+    const accountResult = await fetch('https://api.bitski.com/v1/accounts', {
+      method: 'POST',
+      headers: {
+        authorization: `Bearer ${accessToken}`,
+        'X-API-Key': process.env.CLIENT_ID
+      }
+    });
+    const account = await accountResult.json();
+    accounts.push(account);
+  }
+  return accounts;
+}
+```
