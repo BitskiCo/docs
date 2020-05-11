@@ -33,9 +33,11 @@ Curl example:
           "data": "0x0",
           "nonce": "0x01",
         },
-    		"status": "PENDING",
+        "status": "PENDING",
         "hash": "0x68fcfcf5aef8e7a79b8d6b7e498415896e4dd62861cd5b38fa11ad035f44582c",
-    	  "lastError": null,
+        "signedData": "0xd46e8dd67c5d32be8d46e8dd67c5d32be8058bb8eb970870f072445675058bb8eb970870f072445675",
+        "lastError": null
+      }
     }
 
 ### Polling for updates:
@@ -57,10 +59,12 @@ Transactions are queued and submitted out of band (status will be `PENDING`, `SU
           "data": "0x0",
           "nonce": "0x01",
         },
-    		"status": "PENDING",
+        "status": "PENDING",
         "hash": "0x68fcfcf5aef8e7a79b8d6b7e498415896e4dd62861cd5b38fa11ad035f44582c",
-    	  "lastError": null,
-    }]
+        "signedData": "0xd46e8dd67c5d32be8d46e8dd67c5d32be8058bb8eb970870f072445675058bb8eb970870f072445675",
+        "lastError": null
+      }]
+    }
     
     # Or by id
     $ curl -H "Authorization: Bearer <ACCESS_TOKEN>" https://api.bitski.com/v1/eth/chains/1/transactions/932018a0-3091-4323-ba80-e2145badc174
@@ -78,9 +82,11 @@ Transactions are queued and submitted out of band (status will be `PENDING`, `SU
           "data": "0x0",
           "nonce": "0x01",
         },
-    		"status": "PENDING",
+        "status": "PENDING",
         "hash": "0x68fcfcf5aef8e7a79b8d6b7e498415896e4dd62861cd5b38fa11ad035f44582c",
-    	  "lastError": null,
+        "signedData": "0xd46e8dd67c5d32be8d46e8dd67c5d32be8058bb8eb970870f072445675058bb8eb970870f072445675",
+        "lastError": null
+      }
     }
 
 ## Current Limitations:
