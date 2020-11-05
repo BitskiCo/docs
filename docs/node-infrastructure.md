@@ -1,6 +1,6 @@
 The Bitski SDK can also be used without a user wallet to read content from the blockchain. This can be useful to display data before the user logs in, or for basic applications that don't require a user wallet.
 
-This feature is built in to all Bitski SDKs. Just initlize the SDK as normal. You will be able to make read-only calls without signing in.
+This feature is built in to all Bitski SDKs. Just initialize the SDK as normal. You will be able to make read-only calls without signing in.
 
 ## Other SDKs
 
