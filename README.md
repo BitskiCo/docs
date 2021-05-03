@@ -10,5 +10,9 @@ Our storefront documentation is coming soon. For now you can reach out to suppor
 
 If you want to start access the blockchain directly, you can do so via our developer platform.
 
+{% page-ref page="web3/overview.md" %}
+
+
+
 
 
