@@ -11,10 +11,10 @@
     * [Sales Details](storefront/creator-portal/untitled/sales-details.md)
   * [The Custom Storefront](storefront/creator-portal/the-custom-storefront.md)
   * [Customer Pricing](storefront/creator-portal/customer-pricing.md)
-* [The Bitski Wallet](storefront/the-bitski-wallet.md)
 * [Bonus Content](storefront/bonus-content/README.md)
   * [Best Practices for Marketing](storefront/bonus-content/best-practices-for-marketing.md)
   * [Support](storefront/bonus-content/support.md)
+* [The Bitski Wallet](storefront/the-bitski-wallet.md)
 
 ## Web3
 
