@@ -8,7 +8,7 @@ description: >-
 
 ## Announce Your NFT
 
-We always end up forgetting the power we hold in our phones but remember that there are about 7 billion people in the world and about half of them are online. Let's take advantage of it 📲
+We always end up forgetting the power we hold in our phones but remember that there are about 7 billion people in the world and more than half of them are online. Let's take advantage of it 📲
 
 ### 🤳 Social
 
