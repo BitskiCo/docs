@@ -26,7 +26,7 @@ Creators have the opportunity to link their socials like their website portfolio
 
 It is important to remind new creators that in the "Settings" is also where they set up their subscriptions and connect their bank accounts for payouts.
 
-## Great job on hitting this milestone!
+## Great job on hitting your first milestone!
 
 Now let's get to the real work 😈
 
