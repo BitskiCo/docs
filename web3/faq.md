@@ -36,3 +36,7 @@ Currently for ETH, users can sign into our [web wallet](https://wallet.bitski.co
 
 However, if you're working with digital assets, we suggest using a backend with App Wallet to send assets to users directly. This prevents the need for the user to purchase ETH, while allowing them to have decentralized ownership.
 
+## You still haven't answered my question
+
+Feel free to reach out to us in our [Discord channel](https://discord.gg/YJgEcR9YW3).
+
