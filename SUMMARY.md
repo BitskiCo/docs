@@ -1,6 +1,14 @@
 # Table of contents
 
 * [Bitski](README.md)
+* [Creator Portal](creator-portal/README.md)
+  * [4-Part Creator Portal](creator-portal/4-part-creator-portal.md)
+  * [Scheduling Your Bitski NFT](creator-portal/scheduling-your-bitski-nft.md)
+  * [Our Product Menu](creator-portal/untitled/README.md)
+    * [Sales Details](creator-portal/untitled/sales-details.md)
+  * [The Custom Storefront](creator-portal/the-custom-storefront.md)
+  * [Customer Pricing](creator-portal/customer-pricing.md)
+  * [Best Practices for Marketing](creator-portal/best-practices-for-marketing.md)
 
 ## Web3
 
