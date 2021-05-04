@@ -28,9 +28,9 @@ _Prerequisite:_ make sure your CC is on file and connected to a paid plan \(or y
 
 For a visual representation, scrolling through our product menu will look something like this:
 
-![](../../.gitbook/assets/safari-bitski-or-creator-portal.mp4)
+![](../.gitbook/assets/safari-bitski-or-creator-portal.mp4)
 
 ### We recommend learning a little more... <a id="bd111466-34a2-4050-9aa5-1a8be2f1f5b1"></a>
 
-Sometimes anything new can be overwhelming, why don't we help you out by walking you through our product menu. We'll cover each area and section of the product upload process!
+Sometimes anything new can be overwhelming, why don't we help you out by walking you through our product menu which will cover each area and section of the product upload process!
 

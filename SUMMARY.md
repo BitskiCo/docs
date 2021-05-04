@@ -1,20 +1,14 @@
 # Table of contents
 
 * [Bitski](README.md)
-
-## Storefront
-
-* [Creator Portal](storefront/creator-portal/README.md)
-  * [4-Part Creator Portal](storefront/creator-portal/4-part-creator-portal.md)
-  * [Scheduling Your Bitski NFT](storefront/creator-portal/scheduling-your-bitski-nft.md)
-  * [Our Product Menu](storefront/creator-portal/untitled/README.md)
-    * [Sales Details](storefront/creator-portal/untitled/sales-details.md)
-  * [The Custom Storefront](storefront/creator-portal/the-custom-storefront.md)
-  * [Customer Pricing](storefront/creator-portal/customer-pricing.md)
-* [Bonus Content](storefront/bonus-content/README.md)
-  * [Best Practices for Marketing](storefront/bonus-content/best-practices-for-marketing.md)
-  * [Support](storefront/bonus-content/support.md)
-* [The Bitski Wallet](storefront/the-bitski-wallet.md)
+* [Creator Portal](creator-portal/README.md)
+  * [4-Part Creator Portal](creator-portal/4-part-creator-portal.md)
+  * [Scheduling Your Bitski NFT](creator-portal/scheduling-your-bitski-nft.md)
+  * [Our Product Menu](creator-portal/untitled/README.md)
+    * [Sales Details](creator-portal/untitled/sales-details.md)
+  * [The Custom Storefront](creator-portal/the-custom-storefront.md)
+  * [Customer Pricing](creator-portal/customer-pricing.md)
+  * [Best Practices for Marketing](creator-portal/best-practices-for-marketing.md)
 
 ## Web3
 

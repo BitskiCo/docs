@@ -14,7 +14,7 @@ Place any product descriptions you think may be relevant to your NFT. This secti
 
 ## Properties \[Key + Value\] <a id="ebc0b8c0-6e8d-4893-9308-6f63220533af"></a>
 
-Bitski offers a vision for gaming assets to be seen as highly valuable and aim to create opportunities for those desgining gaming assets to place a value and property to their creation.
+Bitski offers a vision for gaming assets to be seen as highly valuable and creates opportunities for those in the realm of desgining gaming assets can place a value and property to their creation.
 
 For example, the key property can be a "HP Booster" and make the value "100000" so a buyer could download then integrate that into their game. 
 

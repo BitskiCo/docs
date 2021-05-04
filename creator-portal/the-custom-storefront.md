@@ -12,17 +12,17 @@ At this level, we work heavily with partnerships and enterprise brands. A great 
 
 For agency level requests, Bitski can provide a space to add banners, as well as bespoke custom requests, depending on whether the request is within our bandwidth. We were able to provide 24 hour window support to accommodate for agency needs. 
 
-![](../../.gitbook/assets/untitled.mp4)
+![](../.gitbook/assets/untitled.mp4)
 
 > For more information such as pricing and to answer client needs, email us at support@bitski.com.
 
 ## The Creator Pro Level
 
-While agency level is heavily geared for enterprise customers, we also work heavily with other creator & artist based agencies like [Art Heist](https://www.bitski.com/artheist).
+While agency level is heavily geared for enterprise customers, we also work with other artist and creator agencies like [Art Heist](https://www.bitski.com/artheist).
 
-At this level, we offer a creator-custom storefront that includes a banner, close communication with any agency's external team, and some bespoke customization. Here's a glimpse of how Art Heist's page looks: 
+At this level on the custom storefront, we offer close communication to the external team for support requests, some bespoke customizations and a banner. Here's a glimpse of how their page looks: 
 
-![](../../.gitbook/assets/safari-artheist-or-bitski.mp4)
+![](../.gitbook/assets/safari-artheist-or-bitski.mp4)
 
 > See more on 'Customer Pricing' for what's offered in this package
 
@@ -32,9 +32,9 @@ Let's say you're an independent artist not tied down to an agency, enterprise or
 
 We'd like to highlight one of our creator's profile, let's see what we get:
 
-![](../../.gitbook/assets/safari-live-feed-or-bitski%20%281%29.mp4)
+![](../.gitbook/assets/safari-live-feed-or-bitski%20%281%29.mp4)
 
- At the creator level, you are able to do everything the agency and creator pro level can without the bespoke customizations or banners. We still offer customer support to our creators via Discord, Twitter & Email.
+ At the creator level, you are able to do everything the agency and creator pro level can without the bespoke customizations or banners. We still offer customer support to our creators, although not as readily available as we want to be! 
 
 
 

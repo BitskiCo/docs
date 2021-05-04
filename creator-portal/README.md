@@ -27,7 +27,7 @@ Allows loyal followers and fans of the creator to be a part of the NFT community
 
 Upon registration, creators will be asked for a name. With this name, Bitski creates a smart contract in the blockchain so that every NFT resold on a secondary marketplace can always be traced back to to the creator
 
-#### 4. Your Custom/Creator Storefront:
+#### 4. Your Custom Storefront:
 
 Creators will have sole ownership over their name and their storefront URL will be in the format of https://bitski.com/\[insert username\] 
 
