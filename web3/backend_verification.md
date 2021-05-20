@@ -63,7 +63,7 @@ http = Net::HTTP.new(uri.host, uri.port)
 response = http.get(uri.path, headers)
 ```
 
-This will return json with at the very least a unqique subject:
+This will return json with at the very least a unique subject:
 
 ```javascript
 {
